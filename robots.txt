@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alwaleemti.github.io/sitemap.xml
